@@ -1,5 +1,4 @@
-{
-    "people": [
+[
         {
             "name": "Nguyen Van A",
             "age": 25,
@@ -54,11 +53,4 @@
             "address": "606 Hoang Hoa Tham, Vung Tau, Vietnam",
             "phone_number": "0943215678"
         },
-        {
-            "name": "Dang Thi J",
-            "age": 26,
-            "address": "707 Ba Trieu, Binh Duong, Vietnam",
-            "phone_number": "0956784321"
-        }
-    ]
-}
+        ]
