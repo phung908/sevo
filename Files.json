@@ -23,34 +23,4 @@
             "address": "101 Nguyen Hue, Hue, Vietnam",
             "phone_number": "0938765432"
         },
-        {
-            "name": "Pham Van E",
-            "age": 40,
-            "address": "202 Dinh Tien Hoang, Nha Trang, Vietnam",
-            "phone_number": "0965432187"
-        },
-        {
-            "name": "Vu Thi F",
-            "age": 22,
-            "address": "303 Nguyen Chi Thanh, Can Tho, Vietnam",
-            "phone_number": "0984321567"
-        },
-        {
-            "name": "Do Van G",
-            "age": 33,
-            "address": "404 Hai Ba Trung, Hai Phong, Vietnam",
-            "phone_number": "0918765432"
-        },
-        {
-            "name": "Bui Thi H",
-            "age": 29,
-            "address": "505 Ly Thai To, Quang Ninh, Vietnam",
-            "phone_number": "0923456789"
-        },
-        {
-            "name": "Ngo Van I",
-            "age": 45,
-            "address": "606 Hoang Hoa Tham, Vung Tau, Vietnam",
-            "phone_number": "0943215678"
-        },
         ]
