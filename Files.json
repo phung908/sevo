@@ -1,0 +1,64 @@
+{
+    "people": [
+        {
+            "name": "Nguyen Van A",
+            "age": 25,
+            "address": "123 Pham Van Dong, Hanoi, Vietnam",
+            "phone_number": "0123456789"
+        },
+        {
+            "name": "Le Thi B",
+            "age": 30,
+            "address": "456 Tran Hung Dao, Ho Chi Minh City, Vietnam",
+            "phone_number": "0987654321"
+        },
+        {
+            "name": "Tran Van C",
+            "age": 35,
+            "address": "789 Le Loi, Da Nang, Vietnam",
+            "phone_number": "0912345678"
+        },
+        {
+            "name": "Hoang Thi D",
+            "age": 28,
+            "address": "101 Nguyen Hue, Hue, Vietnam",
+            "phone_number": "0938765432"
+        },
+        {
+            "name": "Pham Van E",
+            "age": 40,
+            "address": "202 Dinh Tien Hoang, Nha Trang, Vietnam",
+            "phone_number": "0965432187"
+        },
+        {
+            "name": "Vu Thi F",
+            "age": 22,
+            "address": "303 Nguyen Chi Thanh, Can Tho, Vietnam",
+            "phone_number": "0984321567"
+        },
+        {
+            "name": "Do Van G",
+            "age": 33,
+            "address": "404 Hai Ba Trung, Hai Phong, Vietnam",
+            "phone_number": "0918765432"
+        },
+        {
+            "name": "Bui Thi H",
+            "age": 29,
+            "address": "505 Ly Thai To, Quang Ninh, Vietnam",
+            "phone_number": "0923456789"
+        },
+        {
+            "name": "Ngo Van I",
+            "age": 45,
+            "address": "606 Hoang Hoa Tham, Vung Tau, Vietnam",
+            "phone_number": "0943215678"
+        },
+        {
+            "name": "Dang Thi J",
+            "age": 26,
+            "address": "707 Ba Trieu, Binh Duong, Vietnam",
+            "phone_number": "0956784321"
+        }
+    ]
+}
