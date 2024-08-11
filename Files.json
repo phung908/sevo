@@ -4,23 +4,13 @@
             "age": 25,
             "address": "123 Pham Van Dong, Hanoi, Vietnam",
             "phone_number": "0123456789"
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-DTLnI6u1TTxkosQofGQpr_Ip1nPQNc1Lg&s"
         },
         {
             "name": "Le Thi B",
             "age": 30,
             "address": "456 Tran Hung Dao, Ho Chi Minh City, Vietnam",
             "phone_number": "0987654321"
-        },
-        {
-            "name": "Tran Van C",
-            "age": 35,
-            "address": "789 Le Loi, Da Nang, Vietnam",
-            "phone_number": "0912345678"
-        },
-        {
-            "name": "Hoang Thi D",
-            "age": 28,
-            "address": "101 Nguyen Hue, Hue, Vietnam",
-            "phone_number": "0938765432"
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUsjmzn8dyRoyHU7sxUYH0hiORNNB9631ew&usqp=CAU"
         }
         ]
